@@ -1,6 +1,6 @@
 {
   "name": "masks-js-test-repo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A test npm package",
   "main": "build/index.js",
   "scripts": {
